@@ -1,11 +1,11 @@
+<h1 align="center">Hi 👋, I'm Ravali Dumpati</h1>
+<h3 align="center">Aspiring Data Science Engineer | AI & Generative AI Enthusiast 📊🤖</h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="Person coding on laptop"
        width="420"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Ravali Dumpati</h1>
-<h3 align="center">Aspiring Data Science Engineer | AI & Generative AI Enthusiast 📊🤖</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dumpatiravali&label=Profile%20Views&color=0e75b6&style=flat" alt="dumpatiravali" />
