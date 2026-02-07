@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+       alt="Person coding on laptop"
+       width="420"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ravali Dumpati</h1>
 <h3 align="center">Aspiring Data Science Engineer | AI & Generative AI Enthusiast 📊🤖</h3>
 
@@ -117,4 +123,4 @@
 
 ---
 
-✨ *“Turning data into insights and ideas into impact.”*  
+✨ <i>Turning data into insights and ideas into impact.</i>
